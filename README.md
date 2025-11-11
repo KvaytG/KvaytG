@@ -1,7 +1,6 @@
 # Hello 👋
 
-I’m a developer who enjoys creating small, useful tools with Python and Java.  
-Most of my projects focus on text, images, and Windows utilities.
+I’m a developer who enjoys creating small, useful tools with Python and Java.
 
 ## Projects
 
