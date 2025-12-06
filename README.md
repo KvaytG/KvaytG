@@ -1,9 +1,9 @@
-# Hello 👋
+# Привет 👋
 
-I’m a developer who enjoys creating small, useful tools with Python and Java.
+Я разработчик, которому нравится создавать небольшие, полезные инструменты на Python и Java.
 
-## Projects
+## Проекты
 
-* 🖥 [win-tools](https://github.com/KvaytG/win-tools) — handy Windows utilities (mouse control, notifications, automation)  
-* 📚 [fb2-converter](https://github.com/KvaytG/fb2-converter) — convert PDF, TXT, EPUB into FB2 for e-readers  
-* ✍️ [caption-forge](https://github.com/KvaytG/caption-forge) — generate and style captions on images
+- 🖥 [win-tools](https://github.com/KvaytG/win-tools) — удобные утилиты Windows (управление мышью, уведомления, автоматизация). 
+- 📚 [fb2-converter](https://github.com/KvaytG/fb2-converter) — конвертер из PDF, TXT, EPUB в FB2 для электронных читалок.
+- ✍️ [caption-forge](https://github.com/KvaytG/caption-forge) — генератор подписей к изображениям.
