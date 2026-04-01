@@ -5,5 +5,3 @@
 Портфолио: [kvaytg.github.io](https://kvaytg.github.io)
 
 Мой сайт: [kvaytg.ru](https://kvaytg.ru)
-
-Telegram-канал: [@kvaytgk](https://t.me/kvaytgk)
